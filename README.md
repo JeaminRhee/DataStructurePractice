@@ -1,5 +1,6 @@
 # DataStructurePractice
 Implement the blank block to print out the smallest number of the file.
+
 Test your code with file1.txt, file2.txt and file3.txt 
 
 The execution should look like the followings:
